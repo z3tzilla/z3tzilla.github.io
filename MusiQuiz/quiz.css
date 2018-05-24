@@ -1,0 +1,82 @@
+.spacer {
+    height: 30px;
+}
+
+.question {
+    background-color: black;
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: white;
+    width: 100%;
+    text-align: center;
+    display: none;
+}
+
+.question-active {
+    display: inline;
+}
+
+.question .title {
+    background-color: rgb(65, 74, 82);
+    font-size: 36px;
+    border-bottom: solid white 1px;
+    border-top: solid white 1px;
+}
+
+.question .text {
+    padding: 15px 25px;
+    background-color: rgb(0, 0, 0);
+}
+
+.question .answers:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.question .answer{
+    float: left;
+    width: calc(50% - 10px);
+    border: solid white 1px;
+    padding: 4px;
+    cursor: pointer;    
+}
+
+.question .answer:hover{
+    background-color: darkorange;
+}
+
+.question .answer-correct {
+    background-color: green;
+}
+
+.question .answer-incorrect {
+    background-color: red;
+}
+
+.question .comment {
+    padding: 15px 25px;    
+}
+
+.question .next {
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;    
+    border-top: solid white 1px;
+    border-bottom: solid white 1px;
+    padding: 8px;
+    background-color: rgb(50, 0, 100);
+}
+
+.question .next:hover {
+    background-color: rgb(75, 0, 150);
+}
+
+.results {
+    font-size: 20px;
+    color: white;
+    border-bottom: solid white 1px;
+    border-top: solid white 1px;
+    padding: 10%;
+}

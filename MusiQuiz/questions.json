@@ -1,0 +1,198 @@
+{
+"CoverQuiz": 
+{
+    "Type" : "Coverville",
+    "Questions": [
+        {
+            "SongTitle": "Private Emotion",
+            "OriginalArtist": "The Hooters",
+            "OriginalFile": "\\files\\mp3\\TheHooters-PrivateEmotion.mp3",
+            "CoverArtist": "Ricky Martin + Meja",
+            "CoverFile": "\\files\\mp3\\RickyMartin-PrivateEmotion.mp3",
+            "Comment": "Песню написали участники группы The Hooters для своего альбома Out of Body. Ricky Martin перепел её вместе со шведской певицей Meja для своего альбома Ricky Martin."
+        },
+        {
+            "SongTitle": "Waiting for Tonight",
+            "OriginalArtist": "3rd Party",
+            "OriginalFile": "\\files\\mp3\\3rdParty-WaitingForTonight.mp3",
+            "CoverArtist": "Jennifer Lopez",
+            "CoverFile": "\\files\\mp3\\JLo-WaitingForTonight.mp3",
+            "Comment": "Песню написали участницы группы 3rd Party для своего дебютного альбома Alive. Два года спустя Дженнифер Лопез записала свою версию песни уже для своего дебютного альбома On the 6."
+        },
+        {
+            "SongTitle": "Self Control",
+            "OriginalArtist": "RAF",
+            "OriginalFile": "\\files\\mp3\\RAF-SelfControl.mp3",
+            "CoverArtist": "Laura Brannigan",
+            "CoverFile": "\\files\\mp3\\LauraBrannigan-SelfControl.mp3",
+            "Comment": "Итальянский исполнитель RAF написал эту песню совместно с другими авторами, которые потом продали права на неё певице Laura Brannigan."
+        },
+        {
+            "SongTitle": "Torn",
+            "OriginalArtist": "Ednaswap",
+            "OriginalFile": "\\files\\mp3\\Ednaswap-Torn.mp3",
+            "CoverArtist": "Natalie Imbruglia",
+            "CoverFile": "\\files\\mp3\\NatalieImbruglia-Torn.mp3",
+            "Comment": "Первой эту песню на датском языке записала Lis Sørensen, и только потом уже Ednaswap - группа самих авторов песни. Чуть позже Torn исполнила Natalie Imbruglia для своего дебютного альбома Left of the Middle, чем заслужила всемирную известность."
+        },
+        {
+            "SongTitle": "Беспечный Ангел",
+            "OriginalArtist": "Golden Earring",
+            "OriginalFile": "\\files\\mp3\\GoldenEarring-GoingToTheRun.mp3",
+            "CoverArtist": "Ария",
+            "CoverFile": "\\files\\mp3\\Ария-БеспечныйАнгел.mp3",
+            "Comment": "Среди ранних песен «Арии» можно найти несколько композиций, которые представляют собой русскоязычные каверы на зарубежные хиты, например одна из самых известных песен группы: «Беспечный ангел». Изначально песню о погибшем байкере исполнили голландцы Golden Earring — Going to the Run."
+        }    
+    ]
+}
+,    
+"CoverQuizNew":
+[
+    {
+        "Question":"Wild World",
+        "QuestionArtist": "Br. Big",
+        "QuestionFile":"\\files\\mp3\\MB-WW.mp3",
+        "Answer":"Cover",
+        "Comment":"Оригинал исполнял Cat Stevens",
+        "CommentFile": "\\files\\mp3\\CS-WW.mp3"
+        },
+        {
+        "Question":"Atomic Kitten - Eternal Flame",
+        "Answer":"Cover",
+        "Comment":"The Bangles"
+        }
+],
+"CoverQuizExtra":
+    [
+    {
+    "Question":"Bananarama - Venus",
+    "Answer":"Cover",
+    "Comment":"Shocking Blue"
+    },
+    {
+    "Question":"No Doubt - It's My Life",
+    "Answer":"Cover",
+    "Comment":"Talk Talk"
+    },
+    {
+    "Question":"Pet Shop Boys - Always on My Mind",
+    "Answer":"Cover",
+    "Comment":"Brenda Lee -> Elvis"
+    },
+    {
+    "Question":"Natalie Imbruglia - Torn",
+    "Answer":"Cover",
+    "Comment":"Ednaswap"
+    },
+    {
+    "Question":"Smash Mouth - I'm a Believer",
+    "Answer":"Cover",
+    "Comment":"The Monkees"
+    },
+    {
+    "Question":"Nazareth - Love Hurts",
+    "Answer":"Cover",
+    "Comment":"The Everly Brothers"
+    },
+    {
+    "Question":"a-ha - Crying in the Rain",
+    "Answer":"Cover",
+    "Comment":"The Everly Brothers"
+    },
+    {
+    "Question":"Blondie - The Tide is High",
+    "Answer":"Cover",
+    "Comment":"Atomic Kitten перепели, а на самом деле это песня The Paragons"
+    },
+    {
+    "Question":"Glenn Medeiros - Nothing's Gonna Change My Love For You",
+    "Answer":"Cover",
+    "Comment":"George Benson"
+    },
+    {
+    "Question":"Midge Ure - The Man Who Sold The World",
+    "Answer":"Cover",
+    "Comment":"Ну конечно же Боуи оригинал"
+    },
+    {
+    "Question":"Scorpions - White Dove",
+    "Answer":"Cover",
+    "Comment":"Omega - Gyongyhaju lany"
+    },
+    {
+    "Question":"Хиль - Я очень рад, ведь я наконец возвращаюсь домой",
+    "Answer":"Cover",
+    "Comment":"Валерий Ободзинский -- https://www.youtube.com/watch?v=FHf9BJdgdBo"
+    },
+    {
+    "Question":"Jeff Buckley - Hallelujah",
+    "Answer":"Cover",
+    "Comment":"Leonard Cohen"
+    },
+    {
+    "Question":"Big Mountain - Baby, I Love Your Way",
+    "Answer":"Cover",
+    "Comment":"Frampton"
+    },
+    {
+    "Question":"Sandra - Everlasting Love",
+    "Answer":"Cover",
+    "Comment":"Robert Knight"
+    },
+    {
+    "Question":"No Mercy - Where Do You Go",
+    "Answer":"Cover",
+    "Comment":"La Bouche"
+    },
+    {
+    "Question":"Jason Donovan - Sealed With a Kiss",
+    "Answer":"Cover",
+    "Comment":"The Four Voices"
+    },
+    {
+    "Question":"Gym Class Heroes - Cupid's Chokehold",
+    "Answer":"Cover",
+    "Comment":"Supertramp - Breakfast in America"
+    },
+    {
+    "Question":"Joan Jett and the Blackhearts - I Love Rock'n'Roll",
+    "Answer":"Cover",
+    "Comment":"The Arrows"
+    },
+    {
+    "Question":"Smokie - Living Next Door to Alice",
+    "Answer":"Cover",
+    "Comment":"New World"
+    },
+    {
+    "Question":"Ricky Martin - Private Emotion",
+    "Answer":"Cover",
+    "Comment":"The Hooters"
+    },
+    {
+    "Question":"LB - Behind Blue Eyes",
+    "Answer":"Cover",
+    "Comment":"The Who"
+    },
+    {
+    "Question":"Soft Cell - Tainted Love",
+    "Answer":"Cover",
+    "Comment":"Gloria Jones"
+    },
+    {
+    "Question":"Johnny Cash - Hurt",
+    "Answer":"Cover",
+    "Comment":"Nine Inch Nails"
+    },
+    {
+    "Question":"Michael Andrews feat. Gary Jules - Mad World",
+    "Answer":"Cover",
+    "Comment":"Tears for Fears"
+    },
+    {
+    "Question":"ATC - All Around The World",
+    "Answer":"Cover",
+    "Comment":"Руки Вверх"
+    }
+    ]
+}
